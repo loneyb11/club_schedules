@@ -3,27 +3,27 @@
   color: #333333;
   width: 100%;
   border-width: 1px;
-  border-color: #729ea5;
+  border-color: #0d1314;
   border-collapse: collapse;
 }
 #tftable th {
   font-size: 12px;
-  background-color: #acc8cc;
+  background-color: #ccc017;
   border-width: 1px;
   padding: 8px;
   border-style: solid;
-  border-color: #729ea5;
+  border-color: #0d1314;
   text-align: left;
 }
 #tftable tr {
-  background-color: #d4e3e5;
+  background-color: #faf610;
 }
 #tftable td {
   font-size: 12px;
   border-width: 1px;
   padding: 8px;
   border-style: solid;
-  border-color: #729ea5;
+  border-color: #0d1314;
 }
 #tftable tr:hover {
   background-color: #ffffff;
